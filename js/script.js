@@ -238,7 +238,7 @@ $(function () {
             $("nav").addClass("white-nav-top");
 
             // Show dark logo
-            $(".navbar-brand img").attr("src", "img/logo/bone-logo.png");
+            $(".navbar-brand img").attr("src", "img/logo/dark-text-logo.png");
 
             // Show back to top button
             $("#back-to-top").fadeIn();
@@ -249,7 +249,7 @@ $(function () {
             $("nav").removeClass("white-nav-top");
 
             // Show logo
-            $(".navbar-brand img").attr("src", "img/logo/bone-logo.png");
+            $(".navbar-brand img").attr("src", "img/logo/light-text-logo.png");
 
             // Hide back to top button
             $("#back-to-top").fadeOut();
